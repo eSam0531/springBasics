@@ -10,6 +10,7 @@ pageEncoding="ISO-8859-1"%>
 	<body>
 		<form:form name="submitForm" method="POST">
 			<div align="center">
+				<h1 style=color:blue>${msg}</h1> 
 				<table>
 					<tr>
 						<th>User Name</th>
