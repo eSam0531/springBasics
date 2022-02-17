@@ -11,7 +11,7 @@ import com.esmee.model.LoginBean;
 
 @Controller
 @RequestMapping("/api")
-public class MCVController {
+public class MVCController {
 
 //	@GetMapping("/")
 //	public ModelAndView display() {
