@@ -7,3 +7,4 @@ target/
 /Servers/
 mvnw
 mvnw.cmd
+.mvn/
