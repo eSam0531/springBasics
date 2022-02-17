@@ -5,3 +5,5 @@ target/
 .classpath
 .factorypath
 /Servers/
+mvnw
+mvnw.cmd
