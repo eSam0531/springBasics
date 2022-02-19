@@ -32,4 +32,7 @@ public class ProductService {
 	}
 	
 	//do update product on our own
+	public void update(Product prd) {
+		repo.save(prd);
+	}
 }
